@@ -1,0 +1,11 @@
+query,intent
+hello,greeting
+hi,greeting
+hey there,greeting
+bye,goodbye
+see you later,goodbye
+what's the weather in Bangalore,get_weather
+tell me weather in Mumbai,get_weather
+how's the weather in Goa,get_weather
+is it raining in Delhi,get_weather
+weather update for Pune,get_weather
